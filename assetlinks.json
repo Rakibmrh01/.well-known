@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.rakibmrh01.twa",
+    "sha256_cert_fingerprints": ["7C:FD:1F:5C:CB:06:96:B5:A1:1F:D2:43:47:41:3C:A4:9E:6A:9A:48:39:EF:62:43:B3:C4:00:DE:33:59:23:CB"]
+  }
+}]
